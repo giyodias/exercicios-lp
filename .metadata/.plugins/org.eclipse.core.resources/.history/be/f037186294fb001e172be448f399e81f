@@ -33,7 +33,6 @@ public class Ex3 {
 		
 		if(letra =='A') {
 			total = ((nota1 + nota2) / 2);
-			return total;
 		}
 		else if(letra == 'P') {
 			pesoNota1 = (nota1/100) * 70;
@@ -41,13 +40,9 @@ public class Ex3 {
 			pesoNota2 = (nota2/100) * 30;
 			
 			total = pesoNota1 + pesoNota2;
-			
-			return total;
 		}
 		
 		return total;
-		
-		
 		
 	}
 
