@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Giyo\Desktop\exercicios-lp\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+954003869.index
+2004412076.index
